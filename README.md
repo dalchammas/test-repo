@@ -1,4 +1,3 @@
-test-repo
-=========
+## Sample Git Project
 
-Test Repo
+The repo is being used for test purposes only.
